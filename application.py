@@ -80,5 +80,5 @@ class contact(Resource):
         return "Sent message"
     
 
-if __name__ == '__applicationlication__':
+if __name__ == '__main__':
     application.run()
